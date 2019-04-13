@@ -1,6 +1,6 @@
 {
   "name": "dep1",
-  "version": "1.0.4-alpha.0+c1a6e25",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
