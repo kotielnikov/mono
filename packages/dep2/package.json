@@ -1,6 +1,6 @@
 {
   "name": "dep2",
-  "version": "1.0.3",
+  "version": "1.0.4-alpha.0+c1a6e25",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dep1": "^1.0.3"
-  }
+    "dep1": "^1.0.4-alpha.0+c1a6e25"
+  },
+  "gitHead": "c1a6e25919d0e832f42484f73f54e6ea5d1578e5"
 }

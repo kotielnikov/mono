@@ -1,11 +1,12 @@
 {
   "name": "dep1",
-  "version": "1.0.3",
+  "version": "1.0.4-alpha.0+c1a6e25",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "c1a6e25919d0e832f42484f73f54e6ea5d1578e5"
 }
